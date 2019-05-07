@@ -1,0 +1,39 @@
+.wedding img{
+    height:500px;
+    width: 100%;
+    object-fit: cover;
+}
+.sec2{
+    background: #ccc;
+    text-align: center;
+    height: 300px;
+    padding-top: 60px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.sec2 p{
+    color:teal;
+     
+    font-size: 32px;
+}
+.sec2 h4{
+    color: rgb(117, 108, 108);  
+    
+}
+.sec3 img{
+    height:500px;
+    width: 100%;
+    object-fit: cover;
+}
+.sec3{
+    position: relative;
+    
+}
+.sec3 p{
+    position: absolute;
+    left:25%;
+    top:50%;
+    font-size: 40px;
+    color: #ccc;   
+    font-weight: bold; 
+}
